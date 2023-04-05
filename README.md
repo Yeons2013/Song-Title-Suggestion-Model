@@ -82,6 +82,7 @@ Mini project6
 <br>
 
 (2) 추가 전처리
+
 <img src="https://media.discordapp.net/attachments/1002189622912221250/1092982463984316446/image.png" width="680">
 
 <br>
